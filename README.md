@@ -4,7 +4,7 @@ Creer une clé USB multi Boot avec Ventoy
 
 Pourquoi Ventoy
 - Ventoy soulève la problématique du : 
-1 ISO → une clé USB. 
+1 ISO → une clé USB.     
 Malheureusement les logiciels connues comme Rufus ou Etcher sont
 Limités . 
 - Ventoy permet d'utiliser un seul support de stockage : 
