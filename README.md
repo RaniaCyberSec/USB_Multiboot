@@ -34,6 +34,8 @@ Site officiel de Ventoy : https://www.ventoy.net/
 - Copier le chemin du fichier theme.txt et le coller dans le script de json
 faire le test sur MobaLiveCD
 
+
+
 - Installer MobaLiveCD => Lien:
 mobatek.net
 - L'executer en tant qu'administrateur
@@ -48,3 +50,15 @@ Permet de:
 - exécutez ou testez votre clé USB amorçable sous Windows,
 - exécutez ou testez votre iso bootable sur windows,
 - lancez ou testez votre live bootable cd dvd ou usb sur windows,
+
+Liens utile pour personnaliser notre périphérique USB Bootable avec #Ventoy sous #Windows10!
+
+Global Control Plugin : https://www.ventoy.net/en/plugin_cont...
+
+Theme Plugin : https://www.ventoy.net/en/plugin_them...
+
+Grub themes : https://www.gnome-look.org/browse/cat...
+
+Menu Class Plugin : https://www.ventoy.net/en/plugin_menu...
+
+Menu Alias Plugin : https://www.ventoy.net/en/plugin_menu...
